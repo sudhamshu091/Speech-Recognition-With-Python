@@ -1,6 +1,6 @@
 # Speech-Recognition-With-Python
 
-Speech Recognition
-Generating Audio Signals
-Fourier Transforms
+Speech Recognition,
+Generating Audio Signals,
+Fourier Transforms,
 Visualizing Signals
